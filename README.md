@@ -1,3 +1,4 @@
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/ffb8a37b-4b3d-4a15-87fa-9426e88be399">
 # JobWaYY - The Perfect Place to Find Your Next Job in Big Tech
 
 Welcome to **JobWaYY**, a streamlined job application and listing portal designed to help you land your dream job at top tech companies. Whether you're a job seeker looking for your next big opportunity or a recruiter searching for the perfect candidate, JobWaYY offers the tools you need.
